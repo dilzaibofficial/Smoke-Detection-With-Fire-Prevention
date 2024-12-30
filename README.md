@@ -45,5 +45,5 @@ This project demonstrates an IoT-based fire detection system using Cisco Packet 
 ---
 
 ## **Contributors**
-- **Your Name**
-DIL ZAIB
+- **DIL ZAIB**
+
